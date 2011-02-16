@@ -54,6 +54,12 @@
          /*
          border: 1px solid #F00;
          */
+      }
+
+      div#contact ul {
+         list-style: none;
+         margin-left:-30px;
+      }
    </style>
 </head>
 <body>
@@ -61,12 +67,11 @@
       <h1>[% me.name %]</h1>
       <p>[% me.summary %]</p>
       <div id='contact'>
-         <h2>contact me?</h2>
          <ul>
             [% FOREACH link IN me.links %]
             <li><a href='[% link.values.0 %]'>[% link.keys.0 %]</a></li>
             [% END %]
-            <li><a class='email' href='mailto:[% me.email %]'>email</a></li>
+            <li><a class='email' href='mailto:[% me.email %]'>[%me.email%]</a></li>
          </ul>
       </div>
    </div>
