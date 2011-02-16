@@ -1,0 +1,103 @@
+<html>
+<head>
+   <style>
+      body {
+         margin: 5px 0px;
+      }
+      h1 {
+         margin: 5px 0px;
+         padding-left: 10px;
+         background: #000;
+         font-style: bolder;
+         color: #FFF;
+      }
+      h2 {
+         margin: 5px 5px;
+         padding-left: 10px;
+         font-style: bolder;
+         /*
+         background: #2B2B2B;
+         color: #FFF;
+         */
+      }
+      h3 {
+         margin: 5px 0px;
+         padding-left: 40px;
+         font-style: bolder;
+         /*background: #555555;
+         color: #FFF;
+         */
+      }
+      p {
+         padding-left: 45px;
+      }
+      div#involvement,
+      div#experience,
+      div#education {
+         width: 600px;
+      }
+
+      div#me {
+         padding:0px;
+         margin-left: 20px;
+         margin-top: 0px;
+         width: 200px;
+         position: relative;
+         left: 0px;
+         top: 0px;
+         float: right;
+         border: 1px solid #F00;
+      }
+   </style>
+</head>
+<body>
+   <div id='me'>
+      <h1>[% me.name %]</h1>
+      <p>[% me.summary %]</p>
+      <div id='contact'>
+         <h2>want to contact me?</h2>
+         <ul>
+            [% FOREACH link IN me.links %]
+            <li><a href='[% link.values.0 %]'>[% link.keys.0 %]</a></li>
+            [% END %]
+            <li><a class='email' href='mailto:[% me.email %]'>email</a></li>
+         </ul>
+      </div>
+   </div>
+
+   [% FOREACH head IN ['involvement','experience'] %]
+   <div id='[% head %]' class='invexp'>
+      <h1>[% head %]</h1>
+      [% FOREACH item IN $head %]
+         <div>
+            <h2>[% item.name %] [% IF item.location %] ([% item.location %])[% END %]</h2>
+            <h3>[% item.title %] ([%item.duration%])</h3>
+            [% IF item.discription %]
+            <p>[% item.discription %]</p>
+            [%END%]
+            [% IF item.skills %]
+            <h4>skills</h4>
+            <ul>
+               [%- FOREACH item IN item.skills %]
+               <li>[% item %]</li>
+               [%- END %]
+            </ul>
+            [%- END %]
+         </div>
+      [%- END %]
+   </div>
+   [% END %]
+
+   <div id='education' class='invexp'>
+      <h1>education</h1>
+      [% FOREACH edu IN education %]
+         <div>
+            <h2>[% edu.name %] ([% edu.location %])</h2>
+            <h3>[% edu.degree %] ([% edu.duration %])</h2>
+         </div>
+
+      [% END %]
+   </div>
+
+</body>
+</html>
