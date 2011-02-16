@@ -19,20 +19,6 @@ me :
       - web interfaces
       - search
       - photography
-   groups :
-      - pdx.pm :
-         - member
-         - speaker
-      - PDX weekly Hackathon :
-         - member 
-         - former co-founder
-      - PDX Critique (defunct) :
-         - co-creator
-      - Open Source Bridge :
-         - technical project manager (first year)
-         - participant (second year)
-      - Bar Camp Portland :
-         - speaker
 education :
    - name : The Art Institute of Portland
      location : Portland, OR
@@ -40,18 +26,43 @@ education :
      degree: B.S., Multimedia and Web Design
    - name : The Ohio State University 
      location : Columbus, OH
-     duration: 1997 – 2003
-     degree: B.F.A.  Painting and Drawing (non complete)
-experience :
+     duration: 1997 - 2003
+     degree: B.F.A. Painting and Drawing [non complete]
+involvement : 
+   - name : Portland Perl Mongers 
+     title: Member and Speaker
+     duration: 2005 - Present 
+     discription: Given a talk on Moose as well as involved in several of the lightning talk sessions.
    - name : CPAN
      title: Contributor
-     type : volunteer
-     duration: 2007 – Present 
+     duration: 2007 - Present 
+     discription: 
+   - name : euler_bench/Tool::Bench
+     title: Developer
+     duration: 2009 - Present 
+     discription: The goal is to create a benchmarking suite to be used for the parrot and rakudo(perl 6) teams to assist in development and debugging. 
+   - name : PDX weekly Hackathon
+     title: Member and former Maintainer
+     duration: 2009 - Present 
+     discription: 
+   - name : PDX Critique (defunct)
+     title: Co-creator
+     duration: 2008 - 2009 
+     discription: The simplest way to describe PDX Critique was that it was a focus group for a night where a presenters give a breif talk about there project then have the group give feedback on the project. My duties involved finding presenters, scheduling meetings, and directing discussion.
+   - name : Open Source Bridge
+     title: technical project manager (first year) and participant 
+     duration: 2009 - 2010
+     discription: Assisted with the creation of openconferenceware by guiding discussions as well as playing QA durring the development process. 
+   - name : Bar Camp Portland
+     title: Speaker
+     duration: 2009 
+     discription: 
+experience :
    - name : Powells.com
      location : Portland, OR
      title: Perl Developer
      type : paid - full time 
-     duration: 2006 – 2011 
+     duration: 2006 - 2011 
      discription: As the resident tool builder I was in charge of constructing solutions to allow the rest of the team to be agile and efficient. I am most proud of the construction of a routes based micro web framework written in Moose and served via mod_perl, similar in concept to a Dancer or Sinatra. Other major development has included Google Books integration, schema redesigns, ETL for publisher feeds, rebuild of our search, decision framework used for Online Buy Back, as well as the creation of many other modules to standardize work flow patterns around the office.
      skills : 
        - perl
@@ -69,10 +80,10 @@ experience :
        - project management 
    - name : ResNet OSU Development Labs
      location : Columbus, OH
-     duration : 2001 – 2003 
+     duration : 2001 - 2003 
      title : PHP Developer
      type : paid - part time
-Worked with students to build an office management suite that included a schedule manager and a knowledge base for common issues. The work was done as a PHP web application backed by MySQL with perl used for system administration tasks.
+     discription: Worked with students to build an office management suite that included a schedule manager and a knowledge base for common issues. The work was done as a PHP web application backed by MySQL with perl used for system administration tasks.
      skills : 
        - PHP
        - MySQL
