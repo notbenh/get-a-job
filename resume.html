@@ -4,6 +4,9 @@
       body {
          margin: 5px 0px;
       }
+      h1, h2, h3 {
+         font-style: bolder;
+      }
       h1 {
          margin: 5px 0px;
          padding-left: 10px;
@@ -12,45 +15,45 @@
          color: #FFF;
       }
       h2 {
-         margin: 5px 5px;
-         padding-left: 10px;
-         font-style: bolder;
          /*
+         padding-left: 10px;
          background: #2B2B2B;
          color: #FFF;
          */
       }
       h3 {
-         margin: 5px 0px;
-         padding-left: 40px;
-         font-style: bolder;
          /*background: #555555;
+         margin: 5px 0px;
+         margin: 5px 5px;
          color: #FFF;
+         padding-left: 40px;
          */
       }
-      p {
-         padding-left: 45px;
-      }
-      div#involvement,
-      div#experience,
-      div#education {
+      div.invexp {
          width: 600px;
          margin-left: 20px;
       }
+      div.invexp div {
+         margin-left: 20px;
+      }
+      div.invexp div * {
+         margin-left: 20px;
+      }
+      div.invexp div h2 {
+         margin-left: 0px;                                                                         
+      }
 
       div#me {
-         width: 200px;
-         margin-top: -5px;
-         position: absolute;
-         float: left;
+         padding:0px;
          margin-left: 625px;
+         margin-top: 0px;
+         width: 200px;
+         position: absolute;
+         top: 0px;
+         float: right;
          /*
          border: 1px solid #F00;
-         padding:0px;
-         margin-left: 20px;
-         margin-top: 0px;
          */
-      }
    </style>
 </head>
 <body>
