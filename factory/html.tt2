@@ -77,7 +77,7 @@
       </div>
    </div>
 
-   [% FOREACH head IN ['involvement','experience'] %]
+   [% FOREACH head IN [ 'experience', 'involvement' ] %]
    <div id='[% head %]' class='invexp'>
       <h1>[% head %]</h1>
       [% FOREACH item IN $head %]
