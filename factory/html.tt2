@@ -1,6 +1,6 @@
 <html>
 <head>
-   <title>ben hengst</title>
+   <title>Ben Hengst</title>
    <style>
       body {
          margin: 5px 0px;
@@ -79,7 +79,7 @@
 
    [% FOREACH head IN [ 'experience', 'involvement' ] %]
    <div id='[% head %]' class='invexp'>
-      <h1>[% head %]</h1>
+      <h1>[% head | ucfirst %]</h1>
       [% FOREACH item IN $head %]
          <div>
             <h2>[% item.name %] [% IF item.location %] ([% item.location %])[% END %]</h2>
@@ -88,7 +88,7 @@
             <p>[% item.discription %]</p>
             [%END%]
             [% IF item.skills %]
-            <h4>skills</h4>
+            <h4>Skills</h4>
             <ul>
                [%- FOREACH item IN item.skills %]
                <li>[% item %]</li>
@@ -101,7 +101,7 @@
    [% END %]
 
    <div id='education' class='invexp'>
-      <h1>education</h1>
+      <h1>Education</h1>
       [% FOREACH edu IN education %]
          <div>
             <h2>[% edu.name %] ([% edu.location %])</h2>
