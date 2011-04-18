@@ -30,6 +30,10 @@ education :
      duration: 1997 - 2003
      degree: B.F.A. Painting and Drawing [non complete]
 involvement : 
+   - name : Perl Mentor
+     title: Mentor
+     duration: 2011 - Present 
+     discription: Lead a few perl training sessions for local programers, discussed topics as CPAN, Moose, testing and sharing your work on github.
    - name : Portland Perl Mongers 
      title: Member and Speaker
      duration: 2005 - Present 
