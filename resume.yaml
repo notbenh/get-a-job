@@ -46,10 +46,6 @@ involvement :
      title: Contributor
      duration: 2007 - Present 
      discription: 
-   - name : euler_bench/Tool::Bench
-     title: Developer
-     duration: 2009 - Present 
-     discription: The goal is to create a benchmarking suite to be used for the parrot and rakudo(Perl 6) teams to assist in development and debugging. 
    - name : PDX weekly Hackathon
      title: Member and former Maintainer
      duration: 2009 - Present 
@@ -66,6 +62,10 @@ involvement :
      title: Speaker
      duration: 2009 
      discription: Lead discussion on using WordPress as a CMS and advocated the use of film cameras over digital.
+   - name : euler_bench/Tool::Bench
+     title: Developer
+     duration: 2009 - Present 
+     discription: The goal is to create a benchmarking suite to be used for the parrot and rakudo(Perl 6) teams to assist in development and debugging. 
 experience :
    - name : Powells.com
      location : Portland, OR
