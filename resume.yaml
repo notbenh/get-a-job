@@ -38,6 +38,10 @@ involvement :
      title: Member and Speaker
      duration: 2005 - Present 
      discription: Gave a full length talk about Moose, and many short form talks regarding CPAN modules that I have authored.
+   - name : PDXPUG Portland PostgreSQL User Group
+     title: Speaker
+     duration: 2010 
+     discription: Gave a talk about the pros and cons of building an over normalized data structure that allows every 'cell' to be versioned and trusted. 
    - name : CPAN
      title: Contributor
      duration: 2007 - Present 
