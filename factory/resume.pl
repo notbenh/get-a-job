@@ -29,6 +29,6 @@ getopts('i:t:');
 # well this is discusting !!!!
 my (undef, $data) = %{ Config::Any->load_files({files => [$opt_i], use_ext => 1 })->[0] };
 my $template = $opt_t =~ m/\.tt2$/ ? $opt_t : qq{$opt_t.tt2} ;
-my $t = Template->new({PRE_CHOMP=>1});
+my $t = Template->new($template =~ m/^txt/ ? {} : {PRE_CHOMP=>1});
 $t->process($template, $data) or die $t->error();
 
