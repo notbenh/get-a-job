@@ -88,6 +88,7 @@ experience :
        - mod_perl 
        - memcached/redis
        - javascript/jQuery
+       - PHP
    - name : Summit Projects
      location : Hood River, OR 
      duration: 2005 - 2006
