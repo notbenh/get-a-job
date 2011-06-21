@@ -81,7 +81,7 @@ experience :
      title: Perl Developer
      type : paid
      duration: 2006 - 2011 
-     description: Developed a product work-flow and corresponding web framework that reduced development time for features of Powells.com, ultimately leading to the construction of the Powells public API. Assisted in the development of an ETL process that freed up 38 hours of development time a week. Other notable accomplishments include Google Books integration, schema redesigns, a decision framework used for the  “Online Buy Back” program.
+     description: Developed a product work-flow and corresponding web framework that reduced development time for features of Powells.com, ultimately leading to the construction of the Powells public API. Assisted in the development of an ETL process that freed up 38 hours of development time a week. Other notable accomplishments include Google Books integration, schema redesigns, a decision framework used for the  "Online Buy Back" program.
      skills : 
        - perl
        - MySQL 
