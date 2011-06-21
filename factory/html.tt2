@@ -84,8 +84,8 @@
          <div>
             <h2>[% item.name %] [% IF item.location %] ([% item.location %])[% END %]</h2>
             <h3>[% item.title %] ([%item.duration%])</h3>
-            [% IF item.discription %]
-            <p>[% item.discription %]</p>
+            [% IF item.description %]
+            <p>[% item.description %]</p>
             [%END%]
             [% IF item.skills %]
             <h4>Skills</h4>

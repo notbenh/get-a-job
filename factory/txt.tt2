@@ -9,7 +9,7 @@
 [% FOREACH item IN $head %]
 - [% item.name %] [% IF item.location %] ([% item.location +%])[% END %]
   [% item.title %] ([%item.duration%])
-  [% IF item.discription %][% item.discription %][%END%]
+  [% IF item.description %][% item.description %][%END%]
   [% IF item.skills %]
     Skills: 
     [%- FOREACH item IN item.skills %]
