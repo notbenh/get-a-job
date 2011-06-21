@@ -7,7 +7,7 @@ Ben Hengst
  - email : benh@develonizer.com
 
 
-Experience
+[[ Experience ]]
 
 - Powells.com  (Portland, OR)
   Perl Developer (2006 - 2011)
@@ -37,7 +37,7 @@ Experience
     - MySQL
     - HTML/CSS
     - perl
-Involvement
+[[ Involvement ]]
 
 - Perl Mentor 
   Mentor (2011 - Present)
@@ -76,7 +76,7 @@ Involvement
   Developed a bare benchmarking framework that allowed both the parrot and rakudo(perl6) teams to plot the progress of development and in a few cases assisted in resolving bugs.
   
 
-Education
+[[ Education ]]
 
 - The Art Institute of Portland (Portland, OR)
   B.S., Multimedia and Web Design (2003 - 2005)
