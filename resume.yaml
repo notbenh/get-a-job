@@ -1,4 +1,4 @@
----
+﻿---
 me :
    name : Ben Hengst
    location : Portland OR
@@ -12,7 +12,7 @@ me :
       - CPAN : http://search.cpan.org/~notbenh/
       - twitter: http://twitter.com/#!/notbenh
    interests :
-      - Perl
+      - perl
       - redis
       - git
       - dynamic development languages
@@ -32,70 +32,80 @@ education :
 involvement : 
    - name : Perl Mentor
      title: Mentor
+     type : volunteer
      duration: 2011 - Present 
-     discription: Lead a few perl training sessions for local programers, discussed topics as CPAN, Moose, testing and sharing your work on github.
+     description: Leading perl training sessions for local programmers, discussed topics as CPAN, Moose, testing and sharing your work on github.
    - name : Portland Perl Mongers 
      title: Member and Speaker
+     type : volunteer
      duration: 2005 - Present 
-     discription: Gave a full length talk about Moose, and many short form talks regarding CPAN modules that I have authored.
+     description: Lead discussions about Moose, Benchmark suites, testing, and many of the CPAN modules that I have authored. 
    - name : PDXPUG Portland PostgreSQL User Group
      title: Speaker
+     type : volunteer
      duration: 2010 
-     discription: Gave a talk about the pros and cons of building an over normalized data structure that allows every 'cell' to be versioned and trusted. 
+     description: Discussed strategies for building a schema that allows for all data to be assigned a value of trust and include a versioning system.
    - name : CPAN
      title: Contributor
+     type : open source
      duration: 2007 - Present 
-     discription: 
+     #description: 
    - name : PDX weekly Hackathon
      title: Member and former Maintainer
+     type : volunteer
      duration: 2009 - Present 
-     discription: Was responsible for posting weekly reminders for meetings.
+     description: Scheduled meetups, sent out reminders, procured refreshments for attendees and generally made sure that the meetings went well. 
    - name : PDXCritique (defunct)
      title: Co-creator
+     type : volunteer
      duration: 2008 - 2009 
-     discription: The mission of PDX Critique was to provide a monthly forum for developers and designers to share information and receive constructive criticism.
+     description: Scheduled monthly meetings, found speakers, lead discussions allowing many freelancers to get objective feedback on there projects in progress.
    - name : Open Source Bridge
      title: Technical Project Manager (first year) and Participant 
+     type : volunteer
      duration: 2009 - 2010
-     discription: Assisted with the creation of openconferenceware by guiding discussions, keeping task lists, feature requests, and preformed QA and testing during the development process.
+     description: Guided discussions around the building of openconferenceware, maintained feature requests and built task lists, allowing for smooth talk submissions for the first year of Open Source Bridge. 
    - name : Bar Camp Portland
      title: Speaker
+     type : volunteer
      duration: 2009 
-     discription: Lead discussion on using WordPress as a CMS and advocated the use of film cameras over digital.
-   - name : euler_bench/Tool::Bench
-     title: Developer
-     duration: 2009 - Present 
-     discription: The goal is to create a benchmarking suite to be used for the parrot and rakudo(Perl 6) teams to assist in development and debugging. 
+     description: Lead several discussions, including using WordPress as a CMS and advocated the use of film over digital for hobby photographers.
+   - name : euler_bench/Tool::Bench (defunct)
+     title: Lead Developer
+     type : open source
+     duration: 2009 - 2010 
+     description: Developed a bare benchmarking framework that allowed both the parrot and rakudo(perl6) teams to plot the progress of development and in a few cases assisted in resolving bugs. 
 experience :
    - name : Powells.com
      location : Portland, OR
      title: Perl Developer
-     type : paid - full time 
+     type : paid
      duration: 2006 - 2011 
-     discription: As the resident tool builder I was in charge of constructing solutions to allow the rest of the team to be agile and efficient. I am most proud of the construction of a routes based micro web framework written in Moose and served via mod_perl, similar in concept to Dancer or Sinatra. Other major developments have included Google Books integration, schema redesigns, rebuild of our search, ETL for publisher feeds, decision framework used for Online Buy Back, as well as the creation of many other modules to standardize work flow patterns around the office.
+     description: Developed a product work-flow and corresponding web framework that reduced development time for features of Powells.com, ultimately leading to the construction of the Powells public API. Assisted in the development of an ETL process that freed up 38 hours of development time a week. Other notable accomplishments include Google Books integration, schema redesigns, a decision framework used for the  “Online Buy Back” program.
      skills : 
-       - Perl
+       - perl
        - MySQL 
        - mod_perl 
+       - memcached/redis
        - javascript/jQuery
    - name : Summit Projects
      location : Hood River, OR 
      duration: 2005 - 2006
      title : Lead Developer and Technical Producer
-     type : paid - full time 
-     discription: Built a translation layer for user input to allow for searchability for a client using Perl. Coded cross browser complient HTML and CSS from Photoshop comps for clients such as Norwegian Cruise Lines, KEEN, and Nike Golf.
+     type : paid
+     description: Built a translation layer for user input to allow for searchability for a client using perl. Coded cross browser compliant HTML and CSS from Photoshop comps for clients such as Norwegian Cruise Lines, KEEN, and Nike Golf.
      skills : 
-       - Perl
+       - perl
        - HTML/CSS
        - project management 
    - name : ResNet OSU Development Labs
      location : Columbus, OH
      duration : 2001 - 2003 
-     title : PHP Developer
-     type : paid - part time
-     discription: Worked with students to build an office management suite that included a schedule manager and a knowledge base for common issues. The work was done as a PHP web application backed by MySQL with Perl used for system administration tasks.
+     title : UI Lead and PHP Developer
+     type : paid 
+     description: Member of the student team that developed our in-office management software that included a knowledge base, news reader, and scheduler for both office shifts and on-site appointments.
      skills : 
        - PHP
        - MySQL
        - HTML/CSS
-       - Perl
+       - perl
