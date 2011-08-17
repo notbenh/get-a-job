@@ -46,7 +46,7 @@
 
       div#me {
          padding:0px;
-         margin-left: 625px;
+         margin-left: 725px;
          margin-top: 0px;
          width: 200px;
          position: absolute;
