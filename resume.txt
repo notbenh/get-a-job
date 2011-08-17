@@ -9,6 +9,14 @@ Ben Hengst
 
 [[ Experience ]]
 
+- O'Reilly School of Technology  (Portland, OR)
+  Instructor (2011 - current)
+  Mentor students as they progress thru the course that covers building a website, developed in PHP with a MySQL backend, all from scratch. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
+  
+    Skills: 
+    - Communication
+    - PHP
+    - SQL
 - Powells.com  (Portland, OR)
   Perl Developer (2006 - 2011)
   Developed a product work-flow and corresponding web framework that reduced development time for features of Powells.com, ultimately leading to the construction of the Powells public API. Assisted in the development of an ETL process that freed up 38 hours of development time a week. Other notable accomplishments include Google Books integration, schema redesigns, a decision framework used for the  "Online Buy Back" program.
@@ -39,6 +47,10 @@ Ben Hengst
     - perl
 [[ Involvement ]]
 
+- Odessa Creatives 
+  Core Developer (2011 - Present)
+  Currently building our alpha version of a built-it-yourself portfolio application.
+  
 - Perl Mentor 
   Mentor (2011 - Present)
   Leading perl training sessions for local programmers, discussed topics as CPAN, Moose, testing and sharing your work on github.
