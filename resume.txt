@@ -9,7 +9,7 @@ Ben Hengst
 
 [[ Experience ]]
 
-- O'Reilly School of Technology  (Portland, OR)
+- O'Reilly School of Technology  (telecommute)
   Instructor (2011 - current)
   Mentor students as they progress thru the course that covers building a website, developed in PHP with a MySQL backend, all from scratch. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
   
