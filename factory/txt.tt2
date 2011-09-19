@@ -7,20 +7,21 @@
 [% FOREACH head IN [ 'experience', 'involvement' ] %]
 [[ [% head | ucfirst %] ]]
 [% FOREACH item IN $head %]
-- [% item.name %] [% IF item.location %] ([% item.location +%])[% END %]
-  [% item.title %] ([%item.duration%])
+- [% item.title %] ([%item.duration%])
+  [% item.name %] [% IF item.location %] ([% item.location +%])[% END %]
   [% IF item.description %][% item.description %][%END%]
-  [% IF item.skills %]
+  [%- IF item.skills %]
     Skills: 
     [%- FOREACH item IN item.skills %]
     - [% item %]
     [%- END %]
+
   [%- END -%]
 [%- END -%]
 [% END %]
 
 [[ Education ]]
 [% FOREACH edu IN education %]
-- [% edu.name %] ([% edu.location %])
-  [% edu.degree %] ([% edu.duration %])
+- [% edu.degree %] ([% edu.duration %])
+  [% edu.name %] ([% edu.location %])
 [% END %]
