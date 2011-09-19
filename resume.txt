@@ -9,12 +9,11 @@ Ben Hengst
 
 [[ Experience ]]
 
-- O'Reilly School of Technology  (telecommute)
+- O'Reilly School of Technology  (part-time telecommute)
   Instructor (2011 - current)
   Mentor students as they progress thru the course that covers building a website, developed in PHP with a MySQL backend, all from scratch. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
   
     Skills: 
-    - Communication
     - PHP
     - SQL
 - Powells.com  (Portland, OR)
@@ -57,7 +56,7 @@ Ben Hengst
   
 - Portland Perl Mongers 
   Member and Speaker (2005 - Present)
-  Lead discussions about Moose, Benchmark suites, testing, and many of the CPAN modules that I have authored.
+  Local Perl user group, I've given talks on Moose, Dependency Injection, as well as smaller discussions on some of the CPAN modules that I have authored.
   
 - PDXPUG Portland PostgreSQL User Group 
   Speaker (2010)
@@ -67,9 +66,9 @@ Ben Hengst
   Contributor (2007 - Present)
   
   
-- PDX weekly Hackathon 
-  Member and former Maintainer (2009 - Present)
-  Scheduled meetups, sent out reminders, procured refreshments for attendees and generally made sure that the meetings went well.
+- PDXHackathon 
+  Member and Co-Maintainer (2009 - Present)
+  Guided discussions around the building of openconferenceware, maintained feature requests and built task lists, allowing for smooth talk submissions for the first year of Open Source Bridge.
   
 - PDXCritique (defunct) 
   Co-creator (2008 - 2009)
@@ -77,7 +76,7 @@ Ben Hengst
   
 - Open Source Bridge 
   Technical Project Manager (first year) and Participant (2009 - 2010)
-  Guided discussions around the building of openconferenceware, maintained feature requests and built task lists, allowing for smooth talk submissions for the first year of Open Source Bridge.
+  Open Source Bridge is a yearly conference focusing on Open Source technical solutions to the world. In 2009, for the first conference, I volunteered as Technical Project Manager to assist with the creation of openconferenceware, the backend to the conference that allowed talks to be proposed and submitted as well as commented on by others.
   
 - Bar Camp Portland 
   Speaker (2009)
