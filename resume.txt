@@ -4,7 +4,7 @@ Ben Hengst
  - github : https://github.com/notbenh
  - CPAN : http://search.cpan.org/~notbenh/
  - twitter : http://twitter.com/#!/notbenh
- - email : 
+ - email : ben.hengst@gmail.com
 
 
 [[ Experience ]]
