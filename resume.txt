@@ -4,7 +4,7 @@ Ben Hengst
  - github : https://github.com/notbenh
  - CPAN : http://search.cpan.org/~notbenh/
  - twitter : http://twitter.com/#!/notbenh
- - email : benh@develonizer.com
+ - email : 
 
 
 [[ Experience ]]
@@ -57,7 +57,7 @@ Ben Hengst
   Local Perl user group, I've given talks on Moose, Dependency Injection, as well as smaller discussions on some of the CPAN modules that I have authored.
 - Speaker (2010)
   PDXPUG Portland PostgreSQL User Group 
-  Discussed strategies for building a schema that allows for all data to be assigned a value of trust and include a versioning system.
+  Discussed strategies for building a schema that allows for all data to be assigned a value of trust and include a versioning system. ( http://pugs.postgresql.org/node/1618 )
 - Contributor (2007 - Present)
   CPAN 
   

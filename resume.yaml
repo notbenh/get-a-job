@@ -2,7 +2,7 @@
 me :
    name : Ben Hengst
    location : Portland OR
-   email : benh@develonizer.com
+   #email : benh@develonizer.com
    phone : 503.799.2364
    #summary : I develop, deal with it.
    links :
@@ -43,12 +43,12 @@ involvement :
      title: Member and Speaker
      type : volunteer
      duration: 2005 - Present 
-     description: Local Perl user group, I've given talks on Moose, Dependency Injection, as well as smaller discussions on some of the CPAN modules that I have authored.
+     description: Local Perl user group, I've given talks on Moose, Dependency Injection, as well as smaller discussions on some of the CPAN modules that I have authored. 
    - name : PDXPUG Portland PostgreSQL User Group
      title: Speaker
      type : volunteer
      duration: 2010 
-     description: Discussed strategies for building a schema that allows for all data to be assigned a value of trust and include a versioning system.
+     description: Discussed strategies for building a schema that allows for all data to be assigned a value of trust and include a versioning system. ( http://pugs.postgresql.org/node/1618 )
    - name : CPAN
      title: Contributor
      type : open source
