@@ -30,11 +30,11 @@ education :
      duration: 1997 - 2003
      degree: B.F.A. Painting and Drawing [non complete]
 involvement : 
-   - name : Odessa Creatives
-     title: Core Developer
+   - name : Zinofile/Comic Rocket
+     title: Project Planning Consultant
      type : volunteer
-     duration: 2011 - Present 
-     description: Currently building our alpha version of a built-it-yourself portfolio application.
+     duration: 2011 
+     description: Assisted budding startup with planning out the next version of there Facebook driven Comic application. 
    - name : Perl Mentor
      title: Mentor
      type : volunteer
@@ -86,6 +86,15 @@ involvement :
      duration: 2008
      description: Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
 experience :
+   - name : Odessa Creatives
+     title: Lead Developer
+     type : startup
+     duration: 2011 - Present 
+     description: Develop a cloud based build-it-yourself portfolio engine, more details to follow.
+     skills : 
+       - Perl/Dancer
+       - NoSQL
+       - DevOps
    - name : O'Reilly School of Technology
      location : part-time telecommute
      title: PHP/SQL Instructor

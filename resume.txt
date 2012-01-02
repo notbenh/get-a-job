@@ -9,6 +9,14 @@ Ben Hengst
 
 [[ Experience ]]
 
+- Lead Developer (2011 - Present)
+  Odessa Creatives 
+  Develop a cloud based build-it-yourself portfolio engine, more details to follow.
+    Skills: 
+    - Perl/Dancer
+    - NoSQL
+    - DevOps
+
 - PHP/SQL Instructor (2011 - Present)
   O'Reilly School of Technology  (part-time telecommute)
   Mentor students as they progress thru the course that covers building a website, developed in PHP with a MySQL backend, all from scratch. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
@@ -46,9 +54,9 @@ Ben Hengst
 
 [[ Involvement ]]
 
-- Core Developer (2011 - Present)
-  Odessa Creatives 
-  Currently building our alpha version of a built-it-yourself portfolio application.
+- Project Planning Consultant (2011)
+  Zinofile/Comic Rocket 
+  Assisted budding startup with planning out the next version of there Facebook driven Comic application.
 - Mentor (2011 - Present)
   Perl Mentor 
   Leading perl training sessions for local programmers, discussed topics as CPAN, Moose, testing and sharing your work on github.
