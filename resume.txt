@@ -1,10 +1,10 @@
 Ben Hengst
 
  - About me : http://about.notbenh.info
- - \&nbsp;  LinkedIn : http://www.linkedin.com/in/notbenh
- - \&nbsp;  github : https://github.com/notbenh
- - \&nbsp;  CPAN : http://search.cpan.org/~notbenh/
- - \&nbsp;  twitter : http://twitter.com/#!/notbenh
+ - - LinkedIn : http://www.linkedin.com/in/notbenh
+ - - github : https://github.com/notbenh
+ - - CPAN : http://search.cpan.org/~notbenh/
+ - - twitter : http://twitter.com/#!/notbenh
  - email : ben.hengst@gmail.com
 
 
