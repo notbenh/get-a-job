@@ -87,25 +87,26 @@ involvement :
      duration: 2008
      description: Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
 experience :
+   - name : O'Reilly School of Technology
+     location : Telecommute
+     title: Instructor 
+     type : paid
+     duration: 2011 - Present
+     description: I currently am the lead instructor for the Perl course, as well as an assistant instructor for the PHP/SQL courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
+     skills : 
+       - Perl
+       - PHP
+       - SQL
    - name : Odessa Creatives
      title: Lead Developer
      location : Portland, OR
      type : startup
-     duration: 2011 - Present 
+     duration: 2011 
      description: Developing a cloud based build-it-yourself portfolio engine, more details to follow after we launch.
      skills : 
        - Perl/Dancer
        - NoSQL
        - DevOps
-   - name : O'Reilly School of Technology
-     location : Telecommute
-     title: PHP/SQL Instructor
-     type : paid
-     duration: 2011 - Present
-     description: Mentor students as they progress thru the course that covers building a website, developed in PHP with a MySQL backend, all from scratch. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
-     skills : 
-       - PHP
-       - SQL
    - name : Powells.com
      location : Portland, OR
      title: Perl Developer

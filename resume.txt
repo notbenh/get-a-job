@@ -10,20 +10,21 @@ Ben Hengst
 
 [[ Experience ]]
 
-- Lead Developer (2011 - Present)
+- Instructor (2011 - Present)
+  O'Reilly School of Technology  (Telecommute)
+  I currently am the lead instructor for the Perl course, as well as an assistant instructor for the PHP/SQL courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
+    Skills: 
+    - Perl
+    - PHP
+    - SQL
+
+- Lead Developer (2011)
   Odessa Creatives  (Portland, OR)
   Developing a cloud based build-it-yourself portfolio engine, more details to follow after we launch.
     Skills: 
     - Perl/Dancer
     - NoSQL
     - DevOps
-
-- PHP/SQL Instructor (2011 - Present)
-  O'Reilly School of Technology  (Telecommute)
-  Mentor students as they progress thru the course that covers building a website, developed in PHP with a MySQL backend, all from scratch. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
-    Skills: 
-    - PHP
-    - SQL
 
 - Perl Developer (2006 - 2011)
   Powells.com  (Portland, OR)
