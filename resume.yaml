@@ -14,6 +14,7 @@ me :
       - '- twitter'  : http://twitter.com/#!/notbenh
    interests :
       - perl
+      - javascript (client applications)
       - redis
       - git
       - dynamic development languages
@@ -31,7 +32,12 @@ education :
      duration: 1997 - 2003
      degree: B.F.A. Painting and Drawing [non complete]
 involvement : 
-   - name : Zinofile/Comic Rocket
+   - name : IgnitePortland
+     title: Volunteer Coordinator 
+     type : volunteer
+     duration: 2012
+     description: Lead publicity campaign to find volunteers, then assign tasks and provide assistance on the day of the event.
+   - name : Zinofile (ended up becoming ComicRocket)
      title: Project Planning Consultant
      type : volunteer
      duration: 2011 
