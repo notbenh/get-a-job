@@ -5,11 +5,15 @@ Ben Hengst
  - - github : https://github.com/notbenh
  - - CPAN : http://search.cpan.org/~notbenh/
  - - twitter : http://twitter.com/#!/notbenh
- - email : ben.hengst@gmail.com
+ - email : 
 
 
-[[ Experience ]]
 
+[[ Employment ]]
+
+- Device Builder (2012 - Present)
+  SweetSpot Diabetes Care (DexCom)  (Portland, OR)
+  My primary task is to assemble medical devices to allow for the collection of patient data. Because of the medical nature of these devices, I have also assisted in the creation of a very rigorous QA process to insure the quality of our product.
 - Instructor (2011 - Present)
   O'Reilly School of Technology  (Telecommute)
   I currently am the lead instructor for the Perl course, as well as an assistant instructor for the PHP/SQL courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
@@ -23,7 +27,7 @@ Ben Hengst
   Developing a cloud based build-it-yourself portfolio engine, more details to follow after we launch.
     Skills: 
     - Perl/Dancer
-    - NoSQL
+    - NoSQL(redis)
     - DevOps
 
 - Perl Developer (2006 - 2011)
@@ -45,50 +49,39 @@ Ben Hengst
     - HTML/CSS
     - project management
 
-- UI Lead and PHP Developer (2001 - 2003)
-  ResNet OSU Development Labs  (Columbus, OH)
-  Member of the student team that developed our in-office management software that included a knowledge base, news reader, and scheduler for both office shifts and on-site appointments.
-    Skills: 
-    - PHP
-    - MySQL
-    - HTML/CSS
-    - perl
 
-[[ Involvement ]]
+[[ Community Involvement ]]
 
-- Project Planning Consultant (2011)
-  Zinofile/Comic Rocket 
-  Assisted budding startup with planning out the next version of there Facebook driven Comic application.
-- Mentor (2011 - Present)
-  Perl Mentor 
-  Leading perl training sessions for local programmers, discussed topics as CPAN, Moose, testing and sharing your work on github.
-- Member and Speaker (2005 - Present)
-  Portland Perl Mongers 
-  Local Perl user group, I've given talks on Moose, Dependency Injection, as well as smaller discussions on some of the CPAN modules that I have authored.
-- Speaker (2010)
-  PDXPUG Portland PostgreSQL User Group 
-  Discussed strategies for building a schema that allows for all data to be assigned a value of trust and include a versioning system. ( http://pugs.postgresql.org/node/1618 )
-- Contributor (2007 - Present)
-  CPAN 
-  
+- Instructor (2012 - Present)
+  FreeGeek 
+  The current class that I teach is an intro to programing that uses natural language concepts as a way to better explain programing to non-developers.
+-  (2012 - Present)
+  Stumptown Syndicate 
+  Technical staff Open Source Bridge 2009 Volunteer Coordinator for IgnitePortland 11 in 2012 and member of Content Selection Committee for OpenSource Bridge 2013
 - Member and Co-Maintainer (2009 - Present)
   PDXHackathon 
-  Guided discussions around the building of openconferenceware, maintained feature requests and built task lists, allowing for smooth talk submissions for the first year of Open Source Bridge. Interviwed for Flux magazine [http\://www.fluxstories.com/2012/03/programming-a-community/]
+  
 - Co-creator (2008 - 2009)
   PDXCritique (defunct) 
-  Scheduled monthly meetings, found speakers, lead discussions allowing many freelancers to get objective feedback on there projects in progress.
-- Technical Project Manager (first year) and Participant (2009 - 2010)
-  Open Source Bridge 
-  Open Source Bridge is a yearly conference focusing on Open Source technical solutions to the world. In 2009, for the first conference, I volunteered as Technical Project Manager to assist with the creation of openconferenceware, the backend to the conference that allowed talks to be proposed and submitted as well as commented on by others.
-- Speaker (2009)
-  Bar Camp Portland 
-  Lead several discussions, including using WordPress as a CMS and advocated the use of film over digital for hobby photographers.
-- Lead Developer (2009 - 2010)
-  euler_bench/Tool::Bench (defunct) 
-  Developed a bare benchmarking framework that allowed both the parrot and rakudo(perl6) teams to plot the progress of development and in a few cases assisted in resolving bugs.
+  
 - contributor (2008)
   Perl 5.8.9 delta 
   Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
+
+[[ Spoken at ]]
+
+- PDX Perl Mongers (2005 - Present)
+   
+  
+- PDXCritique (2008 - 2009)
+   
+  
+- Bar Camp (2009)
+   
+  
+- PDX PostgreSQL (2010)
+   
+  
 
 [[ Education ]]
 

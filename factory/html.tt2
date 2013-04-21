@@ -102,7 +102,7 @@
 
    <div id='education' class='invexp'>
       <h1>Education</h1>
-      [% FOREACH edu IN education %]
+      [% FOREACH edu IN Education %]
          <div>
             <h2>[% edu.name %] ([% edu.location %])</h2>
             <h3>[% edu.degree %] ([% edu.duration %])</h2>
