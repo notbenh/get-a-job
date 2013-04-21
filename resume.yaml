@@ -22,7 +22,7 @@ me :
       - web interfaces
       - search
       - photography
-education :
+Education :
    - name : The Art Institute of Portland
      location : Portland, OR
      duration: 2003 - 2005
@@ -31,68 +31,77 @@ education :
      location : Columbus, OH
      duration: 1997 - 2003
      degree: B.F.A. Painting and Drawing [non complete]
-involvement : 
-   - name : IgnitePortland
-     title: Volunteer Coordinator 
+'Spoken at' : 
+   - title: PDX Perl Mongers 
+     duration : 2005 - Present
+   - title: PDXCritique
+     duration : 2008 - 2009
+   - title: Bar Camp
+     duration : 2009
+   - title: PDX PostgreSQL 
+     duration : 2010
+'Community Involvement' : 
+   - name : FreeGeek
+     title: Instructor
      type : volunteer
-     duration: 2012
-     description: Lead publicity campaign to find volunteers, then assign tasks and provide assistance on the day of the event.
-   - name : Zinofile (ended up becoming ComicRocket)
-     title: Project Planning Consultant
+     duration: 2012 - Present
+     description: The current class that I teach is an intro to programing that uses natural language concepts as a way to better explain programing to non-developers.
+   - name : Stumptown Syndicate
+     #title: Volunteer Coordinator 
      type : volunteer
-     duration: 2011 
-     description: Assisted budding startup with planning out the next version of there Facebook driven Comic application. 
-   - name : Perl Mentor
-     title: Mentor
-     type : volunteer
-     duration: 2011 - Present 
-     description: Leading perl training sessions for local programmers, discussed topics as CPAN, Moose, testing and sharing your work on github.
-   - name : Portland Perl Mongers 
-     title: Member and Speaker
-     type : volunteer
-     duration: 2005 - Present 
-     description: Local Perl user group, I've given talks on Moose, Dependency Injection, as well as smaller discussions on some of the CPAN modules that I have authored. 
-   - name : PDXPUG Portland PostgreSQL User Group
-     title: Speaker
-     type : volunteer
-     duration: 2010 
-     description: Discussed strategies for building a schema that allows for all data to be assigned a value of trust and include a versioning system. ( http://pugs.postgresql.org/node/1618 )
-   - name : CPAN
-     title: Contributor
-     type : open source
-     duration: 2007 - Present 
-     #description: 
+     duration: 2012 - Present
+     description: Technical staff Open Source Bridge 2009 Volunteer Coordinator for IgnitePortland 11 in 2012 and member of Content Selection Committee for OpenSource Bridge 2013
+   #- name : Zinofile (now ComicRocket)
+   #  title: Project Planning Consultant
+   #  type : volunteer
+   #  duration: 2011 
+   #  description: Assisted budding startup with planning out the next version of there Facebook driven Comic application. 
+   #- name : CPAN
+   #  title: Contributor
+   #  type : open source
+   #  duration: 2007 - Present 
+   #  #description: 
    - name : PDXHackathon
      title: Member and Co-Maintainer
      type : volunteer
      duration: 2009 - Present 
-     description: Guided discussions around the building of openconferenceware, maintained feature requests and built task lists, allowing for smooth talk submissions for the first year of Open Source Bridge. Interviwed for Flux magazine [http\://www.fluxstories.com/2012/03/programming-a-community/]
+     #description: Guided discussions around the building of openconferenceware, maintained feature requests and built task lists, allowing for smooth talk submissions for the first year of Open Source Bridge. Interviwed for Flux magazine [http\://www.fluxstories.com/2012/03/programming-a-community/]
    - name : PDXCritique (defunct)
      title: Co-creator
      type : volunteer
      duration: 2008 - 2009 
-     description: Scheduled monthly meetings, found speakers, lead discussions allowing many freelancers to get objective feedback on there projects in progress.
-   - name : Open Source Bridge
-     title: Technical Project Manager (first year) and Participant 
-     type : volunteer
-     duration: 2009 - 2010
-     description: Open Source Bridge is a yearly conference focusing on Open Source technical solutions to the world. In 2009, for the first conference, I volunteered as Technical Project Manager to assist with the creation of openconferenceware, the backend to the conference that allowed talks to be proposed and submitted as well as commented on by others. 
-   - name : Bar Camp Portland
-     title: Speaker
-     type : volunteer
-     duration: 2009 
-     description: Lead several discussions, including using WordPress as a CMS and advocated the use of film over digital for hobby photographers.
-   - name : euler_bench/Tool::Bench (defunct)
-     title: Lead Developer
-     type : open source
-     duration: 2009 - 2010 
-     description: Developed a bare benchmarking framework that allowed both the parrot and rakudo(perl6) teams to plot the progress of development and in a few cases assisted in resolving bugs. 
+   #     description: Scheduled monthly meetings, found speakers, lead discussions allowing many freelancers to get objective feedback on there projects in progress.
+   #- name : Open Source Bridge
+   #  title: Technical Project Manager (first year) and Participant 
+   #  type : volunteer
+   #  duration: 2009 - 2010
+   #  description: Open Source Bridge is a yearly conference focusing on Open Source technical solutions to the world. In 2009, for the first conference, I volunteered as Technical Project Manager to assist with the creation of openconferenceware, the backend to the conference that allowed talks to be proposed and submitted as well as commented on by others. 
+   #- name : Bar Camp Portland
+   #  title: Speaker
+   #  type : volunteer
+   #  duration: 2009 
+   #  description: Lead several discussions, including using WordPress as a CMS and advocated the use of film over digital for hobby photographers.
+   #- name : euler_bench/Tool::Bench (defunct)
+   #  title: Lead Developer
+   ##  type : open source
+   #  duration: 2009 - 2010 
+   #  description: Developed a bare benchmarking framework that allowed both the parrot and rakudo(perl6) teams to plot the progress of development and in a few cases assisted in resolving bugs. 
    - name : Perl 5.8.9 delta
      title: contributor
      type : open source
      duration: 2008
      description: Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
-experience :
+Employment :
+   - name : SweetSpot Diabetes Care (DexCom)
+     location : Portland, OR
+     title: Device Builder
+     type : paid contractor
+     duration: 2012 - Present
+     description: My primary task is to assemble medical devices to allow for the collection of patient data. Because of the medical nature of these devices, I have also assisted in the creation of a very rigorous QA process to insure the quality of our product. 
+     #skills : 
+     #  - Perl
+     #  - PHP
+     #  - SQL
    - name : O'Reilly School of Technology
      location : Telecommute
      title: Instructor 
@@ -111,7 +120,7 @@ experience :
      description: Developing a cloud based build-it-yourself portfolio engine, more details to follow after we launch.
      skills : 
        - Perl/Dancer
-       - NoSQL
+       - NoSQL(redis)
        - DevOps
    - name : Powells.com
      location : Portland, OR
@@ -136,14 +145,14 @@ experience :
        - perl
        - HTML/CSS
        - project management 
-   - name : ResNet OSU Development Labs
-     location : Columbus, OH
-     duration : 2001 - 2003 
-     title : UI Lead and PHP Developer
-     type : paid 
-     description: Member of the student team that developed our in-office management software that included a knowledge base, news reader, and scheduler for both office shifts and on-site appointments.
-     skills : 
-       - PHP
-       - MySQL
-       - HTML/CSS
-       - perl
+   #- name : ResNet OSU Development Labs
+   #  location : Columbus, OH
+   #  duration : 2001 - 2003 
+   #  title : UI Lead and PHP Developer
+   #  type : paid 
+   #  description: Member of the student team that developed our in-office management software that included a knowledge base, news reader, and scheduler for both office shifts and on-site appointments.
+   #  skills : 
+   #    - PHP
+   #    - MySQL
+   #    - HTML/CSS
+   #    - perl
