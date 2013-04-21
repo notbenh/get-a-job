@@ -4,8 +4,9 @@
 [% END -%]
  - email : [%me.email%]
 
-[% FOREACH head IN [ 'experience', 'involvement' ] %]
-[[ [% head | ucfirst %] ]]
+[% FOREACH head IN [ 'Employment', 'Community Involvement', 'Spoken at' ] %]
+
+[[ [% head %] ]]
 [% FOREACH item IN $head %]
 - [% item.title %] ([%item.duration%])
   [% item.name %] [% IF item.location %] ([% item.location +%])[% END %]
@@ -21,7 +22,7 @@
 [% END %]
 
 [[ Education ]]
-[% FOREACH edu IN education %]
+[% FOREACH edu IN Education %]
 - [% edu.degree %] ([% edu.duration %])
   [% edu.name %] ([% edu.location %])
 [% END %]

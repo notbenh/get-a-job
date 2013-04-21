@@ -41,7 +41,7 @@
          margin-left: 20px;
       }
       div.invexp div h2 {
-         margin-left: 0px;                                                                         
+         margin-left: 0px;
       }
 
       div#me {
@@ -77,9 +77,9 @@
       </div>
    </div>
 
-   [% FOREACH head IN [ 'experience', 'involvement' ] %]
+  [% FOREACH head IN [ 'Employment', 'Community Involvement', 'Spoken at' ] %]
    <div id='[% head %]' class='invexp'>
-      <h1>[% head | ucfirst %]</h1>
+      <h1>[% head %]</h1>
       [% FOREACH item IN $head %]
          <div>
             <h2>[% item.name %] [% IF item.location %] ([% item.location %])[% END %]</h2>
