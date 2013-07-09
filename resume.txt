@@ -71,16 +71,16 @@ Ben Hengst
 
 [[ Spoken at ]]
 
-- PDX Perl Mongers (2005 - Present)
+- PDX Perl Mongers ()
    
   
-- PDXCritique (2008 - 2009)
+- PDXCritique ()
    
   
-- Bar Camp (2009)
+- Bar Camp ()
    
   
-- PDX PostgreSQL (2010)
+- PDX PostgreSQL ()
    
   
 

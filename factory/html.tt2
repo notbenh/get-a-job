@@ -83,7 +83,7 @@
       [% FOREACH item IN $head %]
          <div>
             <h2>[% item.name %] [% IF item.location %] ([% item.location %])[% END %]</h2>
-            <h3>[% item.title %] ([%item.duration%])</h3>
+            <h3>[% item.title %] [% IF item.duration %]([%item.duration%])[% END %]</h3>
             [% IF item.description %]
             <p>[% item.description %]</p>
             [%END%]
