@@ -118,10 +118,10 @@ Employment :
      location : Portland, OR
      type : startup
      duration: 2011 
-     description: Developing a cloud based build-it-yourself portfolio engine, more details to follow after we launch.
+     description: Now defunct, though the plan was to develop a cloud based build-it-yourself portfolio engine, primarily for non-technical art students.
      skills : 
-       - Perl/Dancer
-       - NoSQL(redis)
+       - Perl
+       - redis
        - DevOps
    - name : Powells.com
      location : Portland, OR

@@ -1,0 +1,94 @@
+Ben Hengst
+
+ - About me : http://about.notbenh.info
+ - - LinkedIn : http://www.linkedin.com/in/notbenh
+ - - github : https://github.com/notbenh
+ - - CPAN : http://search.cpan.org/~notbenh/
+ - - twitter : http://twitter.com/#!/notbenh
+ - email : 
+
+
+
+[[ Employment ]]
+
+- Device Builder (2012 - Present)
+  SweetSpot Diabetes Care  (Portland, OR)
+  My primary task is to assemble medical devices to allow for the collection of patient data. Because of the medical nature of these devices, I have also assisted in the creation of a very rigorous QA process to insure the quality of our product.
+- Instructor (2011 - Present)
+  O'Reilly School of Technology  (Telecommute)
+  I mentor students as they progress thru the course that spans from learning how to program straight to building a website. Currently I am focused on perl and assist with the PHP and Python courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
+    Skills: 
+    - Perl
+    - PHP
+    - Python
+    - SQL
+
+- Lead Developer (2011)
+  Odessa Creatives  (Portland, OR)
+  Developing a cloud based build-it-yourself portfolio engine, more details to follow after we launch.
+    Skills: 
+    - Perl/Dancer
+    - NoSQL(redis)
+    - DevOps
+
+- Perl Developer (2006 - 2011)
+  Powells.com  (Portland, OR)
+  Developed a product work-flow and corresponding web framework that reduced development time for features of Powells.com, ultimately leading to the construction of the Powells public API. Assisted in the development of an ETL process that freed up 38 hours of development time a week. Other notable accomplishments include Google Books integration, schema redesigns, a decision framework used for the  "Online Buy Back" program.
+    Skills: 
+    - perl
+    - MySQL
+    - mod_perl
+    - memcached/redis
+    - javascript/jQuery
+    - PHP
+
+- Lead Developer and Technical Producer (2005 - 2006)
+  Summit Projects  (Hood River, OR)
+  Built a translation layer for user input to allow for searchability for a client using perl. Coded cross browser compliant HTML and CSS from Photoshop comps for clients such as Norwegian Cruise Lines, KEEN, and Nike Golf.
+    Skills: 
+    - perl
+    - HTML/CSS
+    - project management
+
+
+[[ Community Involvement ]]
+
+- Instructor (2012 - Present)
+  FreeGeek 
+  The current class that I teach is an intro to programing that uses natural language concepts as a way to better explain programing to non-developers.
+-  (2012 - Present)
+  Stumptown Syndicate 
+  Technical staff Open Source Bridge 2009 Volunteer Coordinator for IgnitePortland 11 in 2012 and member of Content Selection Committee for OpenSource Bridge 2013
+- Member and Co-Maintainer (2009 - Present)
+  PDXHackathon 
+  
+- Co-creator (2008 - 2009)
+  PDXCritique (defunct) 
+  
+- contributor (2008)
+  Perl 5.8.9 delta 
+  Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
+
+[[ Spoken at ]]
+
+- PDX Perl Mongers (2005 - Present)
+   
+  
+- PDXCritique (2008 - 2009)
+   
+  
+- Bar Camp (2009)
+   
+  
+- PDX PostgreSQL (2010)
+   
+  
+
+[[ Education ]]
+
+- B.S., Multimedia and Web Design (2003 - 2005)
+  The Art Institute of Portland (Portland, OR)
+
+- B.F.A. Painting and Drawing [non complete] (1997 - 2003)
+  The Ohio State University (Columbus, OH)
+
