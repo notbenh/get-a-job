@@ -25,10 +25,10 @@ Ben Hengst
 
 - Lead Developer (2011)
   Odessa Creatives  (Portland, OR)
-  Developing a cloud based build-it-yourself portfolio engine, more details to follow after we launch.
+  Now defunct, though the plan was to develop a cloud based build-it-yourself portfolio engine, primarily for non-technical art students.
     Skills: 
-    - Perl/Dancer
-    - NoSQL(redis)
+    - Perl
+    - redis
     - DevOps
 
 - Perl Developer (2006 - 2011)
