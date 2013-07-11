@@ -56,7 +56,7 @@ Ben Hengst
 - Instructor (2012 - Present)
   FreeGeek 
   The current class that I teach is an intro to programing that uses natural language concepts as a way to better explain programing to non-developers.
--  (2012 - Present)
+- OSB Core Staff & IP Volunteer Coordinator (2009, 2012 - Present)
   Stumptown Syndicate 
   Technical staff Open Source Bridge 2009 Volunteer Coordinator for IgnitePortland 11 in 2012 and member of Content Selection Committee for OpenSource Bridge as well as Core Staff Member for 2013.
 - Member and Co-Maintainer (2009 - Present)
