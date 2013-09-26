@@ -18,6 +18,7 @@ Ben Hengst
   O'Reilly School of Technology  (Telecommute)
   I mentor students as they progress thru the course that spans from learning how to program straight to building a website. Currently I am focused on perl and assist with the PHP and Python courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
     Skills: 
+    - Team building and support
     - Perl
     - PHP
     - Python
