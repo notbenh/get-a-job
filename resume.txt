@@ -10,9 +10,12 @@ Ben Hengst
 
 [[ Employment ]]
 
-- Device Builder (2012 - Present)
+- Device Builder (2012 - 2013)
   SweetSpot Diabetes Care  (Portland, OR)
   My primary task is to assemble medical devices to allow for the collection of patient data. Because of the medical nature of these devices, I have also assisted in the creation of a very rigorous QA process to insure the quality of our product.
+    Skills: 
+    - Communication and documentation
+
 - Instructor (2011 - Present)
   O'Reilly School of Technology  (Telecommute)
   I mentor students as they progress thru the course that spans from learning how to program straight to building a website. Currently I am focused on perl and assist with the PHP and Python courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.

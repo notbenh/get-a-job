@@ -90,6 +90,17 @@ Education :
      duration: 2008
      description: Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
 Employment :
+   - name : O'Reilly School of Technology
+     location : Telecommute
+     title: Instructor 
+     type : paid
+     duration: 2011 - Present
+     description: I mentor students as they progress thru the course that spans from learning how to program straight to building a website. Currently I am focused on perl and assist with the PHP and Python courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
+     skills : 
+       - Team building and support
+       - Perl
+       - Python
+       - PHP & SQL
    - name : SweetSpot Diabetes Care 
      location : Portland, OR
      title: Device Builder
@@ -98,21 +109,6 @@ Employment :
      description: My primary task is to assemble medical devices to allow for the collection of patient data. Because of the medical nature of these devices, I have also assisted in the creation of a very rigorous QA process to insure the quality of our product. 
      skills : 
        - Communication and documentation
-     #  - PHP
-     #  - SQL
-   - name : O'Reilly School of Technology
-     location : Telecommute
-     title: Instructor 
-     type : paid
-     duration: 2011 - Present
-     #description: I currently am the lead instructor for the Perl course, as well as an assistant instructor for the PHP/SQL courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
-     description: I mentor students as they progress thru the course that spans from learning how to program straight to building a website. Currently I am focused on perl and assist with the PHP and Python courses. As students all come to class with a wide variety of cultural and technical background, being able to clearly communicate and instruct is an invaluable skill.
-     skills : 
-       - Team building and support
-       - Perl
-       - PHP
-       - Python
-       - SQL
    - name : Odessa Creatives
      title: Lead Developer
      location : Portland, OR
