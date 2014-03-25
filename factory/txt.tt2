@@ -1,8 +1,11 @@
 [% me.name %]
-[% me.summary %]
-[% FOREACH link IN me.links %] - [% link.keys.0 %] : [% link.values.0 %]
+
+[% IF me.summary %][% me.summary %][% END %]
+[% IF me.blurb %][% me.blurb %][% END %]
+
+[[ Links ]]
+[% FOREACH link IN me.links %]  [% link.keys.0 %] : [% link.values.0 %]
 [% END -%]
- - email : [%me.email%]
 
 [% FOREACH head IN [ 'Employment', 'Community Involvement', 'Spoken at' ] %]
 

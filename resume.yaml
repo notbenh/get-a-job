@@ -4,12 +4,13 @@ me :
    location : Portland OR
    #email : benh@develonizer.com
    #email : ben.hengst@gmail.com
-   #summary : I develop, deal with it.
+   summary : Encurage awesome</br>thru interaction
+   #blurb : this is a blurb that I can expand on what I have to say.
    links :
       - About me : http://about.notbenh.info
-      - '- LinkedIn' : http://www.linkedin.com/in/notbenh
-      - '- github'   : https://github.com/notbenh
-      - '- CPAN'     : http://search.cpan.org/~notbenh/
+      - LinkedIn : http://www.linkedin.com/in/notbenh
+      - github   : https://github.com/notbenh
+      - CPAN     : http://search.cpan.org/~notbenh/
    interests :
       - perl
       - javascript (client applications)
@@ -31,13 +32,9 @@ Education :
      degree: B.F.A. Painting and Drawing [non complete]
 'Spoken at' : 
    - title: PDX Perl Mongers 
-   #duration : 2005 - Present
    - title: PDXCritique
-   #duration : 2008 - 2009
    - title: Bar Camp
-   #duration : 2009
    - title: PDX PostgreSQL 
-   #duration : 2010
 'Community Involvement' : 
    - name : FreeGeek
      title: Instructor
@@ -47,48 +44,16 @@ Education :
    - name : Stumptown Syndicate
      title: OSB Core Staff & IP Volunteer Coordinator
      type : volunteer
-     duration: 2009, 2012 - Present
+     duration: 2009, 2012, 2013
      description: Technical staff Open Source Bridge 2009 Volunteer Coordinator for IgnitePortland 11 in 2012 and member of Content Selection Committee for OpenSource Bridge as well as Core Staff Member for 2013.
-   #- name : Zinofile (now ComicRocket)
-   #  title: Project Planning Consultant
-   #  type : volunteer
-   #  duration: 2011 
-   #  description: Assisted budding startup with planning out the next version of there Facebook driven Comic application. 
-   #- name : CPAN
-   #  title: Contributor
-   #  type : open source
-   #  duration: 2007 - Present 
-   #  #description: 
    - name : PDXHackathon
      title: Member and Co-Maintainer
      type : volunteer
      duration: 2009 - Present 
-     #description: Guided discussions around the building of openconferenceware, maintained feature requests and built task lists, allowing for smooth talk submissions for the first year of Open Source Bridge. Interviwed for Flux magazine [http\://www.fluxstories.com/2012/03/programming-a-community/]
    - name : PDXCritique (defunct)
      title: Co-creator
      type : volunteer
      duration: 2008 - 2009 
-   #     description: Scheduled monthly meetings, found speakers, lead discussions allowing many freelancers to get objective feedback on there projects in progress.
-   #- name : Open Source Bridge
-   #  title: Technical Project Manager (first year) and Participant 
-   #  type : volunteer
-   #  duration: 2009 - 2010
-   #  description: Open Source Bridge is a yearly conference focusing on Open Source technical solutions to the world. In 2009, for the first conference, I volunteered as Technical Project Manager to assist with the creation of openconferenceware, the backend to the conference that allowed talks to be proposed and submitted as well as commented on by others. 
-   #- name : Bar Camp Portland
-   #  title: Speaker
-   #  type : volunteer
-   #  duration: 2009 
-   #  description: Lead several discussions, including using WordPress as a CMS and advocated the use of film over digital for hobby photographers.
-   #- name : euler_bench/Tool::Bench (defunct)
-   #  title: Lead Developer
-   ##  type : open source
-   #  duration: 2009 - 2010 
-   #  description: Developed a bare benchmarking framework that allowed both the parrot and rakudo(perl6) teams to plot the progress of development and in a few cases assisted in resolving bugs. 
-   - name : Perl 5.8.9 delta
-     title: contributor
-     type : open source
-     duration: 2008
-     description: Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
 Employment :
    - name : O'Reilly School of Technology
      location : Telecommute

@@ -57,16 +57,25 @@
          */
       }
 
+      div#summary p, div#blurb p {
+         margin-left:10px;
+      }
+
       div#contact ul {
          list-style: none;
          margin-left:-30px;
       }
+
    </style>
 </head>
 <body>
    <div id='me'>
       <h1>[% me.name %]</h1>
-      <p>[% me.summary %]</p>
+      [% IF me.summary %]
+      <div id='summary'>
+        <p>[% me.summary %]</p>
+      </div>
+      [% END %]
       <div id='contact'>
          <ul>
             [% FOREACH link IN me.links %]
@@ -75,6 +84,11 @@
             <li><a class='email' href='mailto:[% me.email %]'>[%me.email%]</a></li>
          </ul>
       </div>
+      [% IF me.blurb %]
+      <div id='blurb'>
+        <p>[% me.blurb %]</p>
+      </div>
+      [% END %]
    </div>
 
   [% FOREACH head IN [ 'Employment', 'Community Involvement', 'Spoken at' ] %]

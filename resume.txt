@@ -1,20 +1,17 @@
 Ben Hengst
 
- - About me : http://about.notbenh.info
- - - LinkedIn : http://www.linkedin.com/in/notbenh
- - - github : https://github.com/notbenh
- - - CPAN : http://search.cpan.org/~notbenh/
- - email : 
+Encurage awesome</br>thru interaction
+
+
+[[ Links ]]
+  About me : http://about.notbenh.info
+  LinkedIn : http://www.linkedin.com/in/notbenh
+  github : https://github.com/notbenh
+  CPAN : http://search.cpan.org/~notbenh/
 
 
 
 [[ Employment ]]
-
-- Device Builder (2012 - 2013)
-  SweetSpot Diabetes Care  (Portland, OR)
-  My primary task is to assemble medical devices to allow for the collection of patient data. Because of the medical nature of these devices, I have also assisted in the creation of a very rigorous QA process to insure the quality of our product.
-    Skills: 
-    - Communication and documentation
 
 - Instructor (2011 - Present)
   O'Reilly School of Technology  (Telecommute)
@@ -22,9 +19,14 @@ Ben Hengst
     Skills: 
     - Team building and support
     - Perl
-    - PHP
     - Python
-    - SQL
+    - PHP & SQL
+
+- Device Builder (2012 - 2013)
+  SweetSpot Diabetes Care  (Portland, OR)
+  My primary task is to assemble medical devices to allow for the collection of patient data. Because of the medical nature of these devices, I have also assisted in the creation of a very rigorous QA process to insure the quality of our product.
+    Skills: 
+    - Communication and documentation
 
 - Lead Developer (2011)
   Odessa Creatives  (Portland, OR)
@@ -59,7 +61,7 @@ Ben Hengst
 - Instructor (2012 - Present)
   FreeGeek 
   The current class that I teach is an intro to programing that uses natural language concepts as a way to better explain programing to non-developers.
-- OSB Core Staff & IP Volunteer Coordinator (2009, 2012 - Present)
+- OSB Core Staff & IP Volunteer Coordinator (2009, 2012, 2013)
   Stumptown Syndicate 
   Technical staff Open Source Bridge 2009 Volunteer Coordinator for IgnitePortland 11 in 2012 and member of Content Selection Committee for OpenSource Bridge as well as Core Staff Member for 2013.
 - Member and Co-Maintainer (2009 - Present)
@@ -68,9 +70,6 @@ Ben Hengst
 - Co-creator (2008 - 2009)
   PDXCritique (defunct) 
   
-- contributor (2008)
-  Perl 5.8.9 delta 
-  Assisted in converting commit notes and comments in to human readable change logs for perl 5.8.9.
 
 [[ Spoken at ]]
 

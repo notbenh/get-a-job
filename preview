@@ -1,0 +1,5 @@
+#!/bin/sh
+cd factory
+./resume.pl -i ../resume.yaml -t html > ../resume.html
+./resume.pl -i ../resume.yaml -t txt > ../resume.txt
+cd ..
